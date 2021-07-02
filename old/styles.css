@@ -1,0 +1,97 @@
+/*************HTML**************/
+html{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body{
+    background-color:#aac9e0;
+}
+/*************TITRE************/
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+/*************NAVBAR************/
+.topnav {
+    background-color: #058DF2;
+    overflow: hidden;
+  }
+.logo{
+  padding: 1px;
+  float: left;
+  height:40px;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+.deconnexion{
+  float: left;
+}
+/*************BTN****************/
+
+/*************Page Accueil*******/
+.imgPresentation{
+    max-width: 700px;
+}
+.histoire{
+    border:#0476ce solid 3px;
+    background-color:#6bafe4;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.textHistoire{
+    margin: 5px;
+
+}
+.histoireBis{
+    border:#8e04ce solid  2px;
+    background-color:#a761c7;
+    margin: 5px;
+    border-radius: 10px;
+}
+.textHistoireBis{
+    margin: 5px;
+    
+}
+.imgAccueilX4{
+    border-radius: 50%;
+    border: solid 2px white;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.textImgPresentation{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+/*************Page Décoration****/
+.ligneDecoration{
+    height: 200px;
+    background-color: #ab7ac2;
+    margin: 2px;
+}
+.imgDeco{
+    height: 200px;
+    width: 200px;
+}
+/*************Page Food-truck****/
+/*************Page Chill-out*****/
+/*************Page Création******/
+/*************Page Store*********/
+/*************Page Contac********/
